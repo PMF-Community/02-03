@@ -1,0 +1,12 @@
+unosZnaka1 = str(input())
+unosZnaka2 = str(input())
+unosZnaka3 = str(input())
+
+print(3*unosZnaka1, unosZnaka2, unosZnaka1, 8*unosZnaka3, 2*unosZnaka1, sep='')
+print(4*unosZnaka1, unosZnaka2, unosZnaka1, 7*unosZnaka3, 2*unosZnaka1, sep='')
+print(5*unosZnaka1, unosZnaka2, unosZnaka1, 6*unosZnaka3, 2*unosZnaka1, sep='')
+print(6*unosZnaka1, unosZnaka2, unosZnaka1, 5*unosZnaka3, 2*unosZnaka1, sep='')
+print(7*unosZnaka1, unosZnaka2, unosZnaka1, 4*unosZnaka3, 2*unosZnaka1, sep='')
+print(8*unosZnaka1, unosZnaka2, unosZnaka1, 3*unosZnaka3, 2*unosZnaka1, sep='')
+print(9*unosZnaka1, unosZnaka2, unosZnaka1, 2*unosZnaka3, 2*unosZnaka1, sep='')
+print(10*unosZnaka1, unosZnaka2, unosZnaka1, 1*unosZnaka3, 2*unosZnaka1, sep='')
